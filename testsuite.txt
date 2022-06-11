@@ -1,0 +1,4 @@
+public_input0
+public_input1
+public_input2
+public_input3
